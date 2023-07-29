@@ -20,7 +20,7 @@ class Train:
         ## parameter
         self.cfg        = cfg
         self.logger     = SummaryWriter(cfg.log_path)
-        logging.basicConfig(level=logging.INFO, filename=cfg.save_path+'/train.log', filemode='a', format='[%(asctime)s | %(message)s]', datefmt='%I:%M:%S')
+        logging.basicConfig(level=logging.INFO, filename=cfg.log_path+'/train.log', filemode='a', format='[%(asctime)s | %(message)s]', datefmt='%I:%M:%S')
         ## model
         self.model      = WeakPolyp(cfg).cuda()
         self.model.train()
