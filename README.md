@@ -90,13 +90,11 @@ WeakPolyp
 
 ## Citation
 - If you find this work is helpful, please cite our paper
-```
-@inproceedings{WeakPolyp,
-  title        = {WeakPolyp: You Only Look Bounding Box for Polyp Segmentation},
-  author       = {Wei, Jun and Hu, Yiwen and Cui, Shuguang and Zhou, S.Kevin and Li, Zhen},
-  booktitle    = {International Conference on Medical Image Computing and Computer-Assisted Intervention},
-  //pages        = {??--??},
-  year         = {2023},
-  organization = {Springer}
+@inproceedings{wei2023weakpolyp,
+  title={WeakPolyp: You only Look Bounding Box for Polyp Segmentation},
+  author={Wei, Jun and Hu, Yiwen and Cui, Shuguang and Zhou, S Kevin and Li, Zhen},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={757--766},
+  year={2023},
+  organization={Springer}
 }
-```
