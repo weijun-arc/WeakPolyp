@@ -90,6 +90,7 @@ WeakPolyp
 
 ## Citation
 - If you find this work is helpful, please cite our paper
+```
 @inproceedings{wei2023weakpolyp,
   title={WeakPolyp: You only Look Bounding Box for Polyp Segmentation},
   author={Wei, Jun and Hu, Yiwen and Cui, Shuguang and Zhou, S Kevin and Li, Zhen},
@@ -98,3 +99,4 @@ WeakPolyp
   year={2023},
   organization={Springer}
 }
+```
